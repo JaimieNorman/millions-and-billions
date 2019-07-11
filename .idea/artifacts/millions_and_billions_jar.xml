@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="millions-and-billions:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/millions_and_billions_jar</output-path>
+    <root id="archive" name="millions-and-billions.jar">
+      <element id="module-output" name="millions-and-billions" />
+    </root>
+  </artifact>
+</component>
